@@ -4,13 +4,13 @@
 
 This document is to contain your project proposal. __As you complete each of the below sections in this document, please be sure to remove all preamble text so that it does not appear in your work.__
 
-## GitHub Handle: Add Your Name Here
+## GitHub Handle: @rebekahrudd
 
-## Name: Add Your Name Here
+## Name: Rebekah Rudd
 
-## Major: TODO (choose: CS, DS, INFM, SE)
+## Major: CS
 
-## Project Title: Enter The Name Of Your Project
+## Project Title: Mandarin Tools
 
 TODO: Create an interesting title for your proposed project that bring a freshness and excitement to the area of this project. Consider using a name that carries some information about what the project and provides some hint at what the project does without being too wordy.
 
