@@ -4,6 +4,23 @@
 1st todos: *s
 
 
+May 2nd:
+
+tyring to use this github library to analyze a picture
+https://github.com/BoXiao123/simple-chinese-ocr-with-opencv
+
+1st issue:
+mxnet not installed
+
+2nd issue: 
+need a more deprecated version of mxnet
+command: `pip3 install mxnet-mkl==1.6.0 numpy==1.23.1`
+result: this fixed the problem
+
+Issue:
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 
