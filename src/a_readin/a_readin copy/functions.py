@@ -14,13 +14,15 @@ def open_photo(image_loaded) -> None:
 
 def resize_image(image_loaded) -> None:
     """Resize and image."""
-    width, height = image_loaded.size
+    width, height = image_loaded.size()
     # I want the pixels to be bellow 500
     # how to solve for this??
-    if x/y / num < 500:
+    num = 4
+    if width / num < 500:
     # if vertical:
-        cv2.resize(image_loaded, (x/num, y/num), cv2.INTER_CUBIC)
-    
+        cv2.resize(image_loaded, (width/num, height/num), cv2.INTER_CUBIC)
+    print("change resize function.")
+
 def crop(image_loaded, left, right, top, bottom) -> None:
     """Crop an image."""
     cropped_image = image_loaded.crop((left, top, right, bottom))
