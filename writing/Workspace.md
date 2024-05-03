@@ -3,6 +3,8 @@
 
 1st todos: *s
 
+Next time: work on editing the flashcards and try to read in a csv final and add the data to flash cards so hit a bottom and flashcards are made
+Next time: edit the reading in a picture and then work on possibly working with a github repo to switch files over png to text, none of the github files I've found have worked
 
 May 2nd:
 
@@ -25,6 +27,17 @@ https://docs.opencv.org/3.4/d1/dc5/tutorial_background_subtraction.html
 
 what is PIL - a resource
 
+a_readin work: the picture isn't opening, resovle the size to find the max and height also find teh ratio of the sides to each other, can't crop a type numpy
+https://docs.opencv.org/4.x/d6/d50/classcv_1_1Size__.html
+
+trying to find where cv2 is installed so that I can add it to my pyproject.toml file, I want to use ruff format and addd more checks to the gator grade
+
+search for cv2 and where it's installed
+command: `apt search` + `opencv`
+explain: there were lots of results for opencv and none for some other search queries
+
+command: `pip show` + `numpy`
+explain: numpy was the example and then it showed all the information about that package but I couldn't find the open cv because I don't know the exact name of it
 
 -------------------------------------------------------------------------------------------------------------------------------
 
