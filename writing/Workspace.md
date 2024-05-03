@@ -1,10 +1,12 @@
 
 # Timeline
 
-1st todos: *s
-
+1st todos:
 Next time: work on editing the flashcards and try to read in a csv final and add the data to flash cards so hit a bottom and flashcards are made
 Next time: edit the reading in a picture and then work on possibly working with a github repo to switch files over png to text, none of the github files I've found have worked
+
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 May 2nd:
 
