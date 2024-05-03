@@ -10,9 +10,7 @@ This document is to contain your project proposal. __As you complete each of the
 
 ## Major: CS
 
-## Project Title: Mandarin Tools
-
-TODO: Create an interesting title for your proposed project that bring a freshness and excitement to the area of this project. Consider using a name that carries some information about what the project and provides some hint at what the project does without being too wordy.
+## Project Title: Mandarin Study Tools
 
 ---
 
