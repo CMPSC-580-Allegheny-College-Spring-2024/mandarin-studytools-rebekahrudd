@@ -19,6 +19,11 @@ result: this fixed the problem
 
 Issue:
 
+todo: look more into removing an image background as a way to crop it
+https://stackoverflow.com/questions/56501702/how-to-get-background-image-in-opencv-python
+https://docs.opencv.org/3.4/d1/dc5/tutorial_background_subtraction.html
+
+what is PIL - a resource
 
 
 -------------------------------------------------------------------------------------------------------------------------------
