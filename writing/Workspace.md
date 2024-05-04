@@ -5,6 +5,8 @@
 Next time: work on editing the flashcards and try to read in a csv final and add the data to flash cards so hit a bottom and flashcards are made
 work on displaying a svg
 
+-------------------------------------------------------------------------------------------------------------------------------
+
 May 3:
 wrote proposal
 got my pen image function working
