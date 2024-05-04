@@ -18,21 +18,29 @@ import cv2
 #     """Edit a picture"""
     # To read image from disk, we use
     # cv2.imread function, in below method,
+
 image_name = input("Enter the image name: ")
-img = cv2.imread(image_name, cv2.IMREAD_COLOR)
+img = cv2.imread(image_name)
+
 # functions.resize_image(img)
+
 functions.open_photo(img)
+
 # left, right, top, bottom from the user's input
 print("Reference the photo to get numbers on where you want the image cropped.")
-left = input("Enter the left limit you want: ")
-right = input("Enter the right limit you want: ")
-top = input("Enter the top limit you want: ")
-bottom = input("Enter the bottom limit you want: ")
-functions.crop(img, left, right, top, bottom)
+left = int(input("Enter the left amount you want cropped: "))
+right = int(input("Enter the right amount you want cropped: "))
+top = int(input("Enter the top amount you want cropped: "))
+bottom = int(input("Enter the bottom amount you want cropped: "))
+# functions.pic_crop(image_name, left, top, right, bottom)
+functions.fake_crop(image_name)
+
 # ask the user if this is a good crop
 functions.close_photo(img)
-print("Click any key to close the first image, then your cropped image will show.")
+# print("Click any key to close the first image, then your cropped image will show.")
 response = input(f"""Is this a good crop? Enter "yes" or nothing """)
 if response == "yes":
+    print("yay!")
     functions.open_photo(img)
-    functions.crop(img, left, right, top, bottom)
+    # functions.crop(img, left, top, right, bottom)
+# functions.pic_crop("img1.png", 10, 10, 10, 10)
