@@ -24,7 +24,7 @@ img = cv2.imread(image_name)
 
 # functions.resize_image(img)
 
-functions.open_photo(img)
+# functions.open_photo(img)
 
 # left, right, top, bottom from the user's input
 print("Reference the photo to get numbers on where you want the image cropped.")
