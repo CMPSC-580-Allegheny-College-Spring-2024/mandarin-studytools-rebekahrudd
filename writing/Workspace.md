@@ -4,6 +4,7 @@
 1st todos:
 Next time: work on editing the flashcards and try to read in a csv final and add the data to flash cards so hit a bottom and flashcards are made
 work on displaying a svg
+get poetry up and running - find the cv2 location (hint: in build) and add it the the file
 
 -------------------------------------------------------------------------------------------------------------------------------
 
