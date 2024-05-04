@@ -24,7 +24,7 @@ Language, as much as it enables us to communicate it also confines us. We can us
 
 ### The Importance of Language
 
-Most people only speak one language in their lives. However, there are many benefits to learning a second language. First studies show it can improve your memory. Learning languages expands our knowledge and understanding. Secondly, it helps us better understand and appreciate our native tongues. It expands our perspective because things you take for granted, like the verb following the subject, you realize, are not always a given. Thirdly, learning another language can open doors and reveal broader opportunities for us. It helps you become more of a cross cultural and more cross culturally aware person. It opens doors to new communities. As Trevor Noah, the comedian, says in his book, Born A Crime, "A shared language says "We're the same." A language barrier says "We're different." Learning a language is a way to step out of your own world and into someone else's world. It's a way to make an effort to understand others.
+Most people only speak one language in their lives. However, there are many benefits to learning a second language. First studies show it can improve your memory. Learning languages expands our knowledge and understanding. Secondly, it helps us better understand and appreciate our native tongues. It expands our perspective because things you take for granted, like the verb following the subject, you realize, are not always a given. Thirdly, learning another language can open doors and reveal broader opportunities for us. It helps you become more of a cross cultural and more cross culturally aware person. It opens doors to new communities. As Trevor Noah, the comedian, says in his book, Born A Crime, "A shared language says "We're the same."[2017] A language barrier says "We're different." Learning a language is a way to step out of your own world and into someone else's world. It's a way to make an effort to understand others.
 
 Finally, in learning a language not only will you learn about others, but you will learn more about yourself. Everyone learns differently. Our brains all work differently. There are many different ways to learn and there are many different ways to help facilitate learning. How people learn and therefore how to teach them, specifically languages, is all connected. There are many resources and articles that discussion second language learning and teaching. These topics have been a topic long under discussion. For example Article 5 explores a teaching idea to engage elementary students in learning more about another language and culture. This article is specifically geared towards learning Mandarin as a second language. The idea centers around having a topic of study and then splitting the classroom up into groups to explore different facets of the topic. The kids will work together to learn about their specific topic and they will then present their findings to their classmates. In addition to different teaching methods, there are also articles about self learning methods and tools.
 
@@ -95,8 +95,12 @@ This article relates to what I am doing because it will help me consider the goa
 7. Bochun Kang, Sicheng Kang. February 12 2022. Chinese Character Learning Information Platform Based on Multimedia Information Technology. Hindawi: Wireless Communications and Moblie Computing, Volume 2022, Article ID 1758129. https://www.hindawi.com/journals/wcmc/2022/1758129/
 This article considers the idea of MIT which stands for multimedia information technology. This considers more how people study and their recall rates. This relates to my project in both considering the technology and considering how people learn.
 
+### Referenced Quote
+
+8. Trevor Noah. 2017. Born a Crime. London: John Murry(Publishers).
+
 ### Code Implementation/Using Open CV Assistance
 
-8. March 29, 2023. Reading an image in OpenCV using Python. Geeks for Geeks. https://www.geeksforgeeks.org/reading-image-opencv-using-python/
-9. Janurary 16, 2023. Image Resizing using OpenCV. Geeks for Geeks. https://www.geeksforgeeks.org/image-resizing-using-opencv-python/
-10. 17 June 2021. Python PIL | Image.crop() method.  Geeks for Geeks. https://www.geeksforgeeks.org/python-pil-image-crop-method/
+9. March 29, 2023. Reading an image in OpenCV using Python. Geeks for Geeks. https://www.geeksforgeeks.org/reading-image-opencv-using-python/
+10. Janurary 16, 2023. Image Resizing using OpenCV. Geeks for Geeks. https://www.geeksforgeeks.org/image-resizing-using-opencv-python/
+11. 17 June 2021. Python PIL | Image.crop() method.  Geeks for Geeks. https://www.geeksforgeeks.org/python-pil-image-crop-method/
